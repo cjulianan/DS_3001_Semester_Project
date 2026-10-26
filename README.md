@@ -4,9 +4,11 @@ Fork this repository once for your team and use the fork as the single record of
 
 ## Project information
 
-- **Project title:** [Replace with your project title]
-- **Team members:** [Replace with names]
-- **Repository URL:** [Replace with the URL of your team's fork]
+- **Project title:** Using CO2 PPM to
+Predict Extreme Weather
+Pattens
+- **Team members:** Sherlock Chen, Edward Christopher, Henry Fong
+- **Repository URL:** https://github.com/cjulianan/DS_3001_Semester_Project
 
 ## Repository structure
 
